@@ -1,0 +1,42 @@
+BẢN QUYỀN – KHÔNG CẤP PHÉP SỬ DỤNG
+
+© 2026 Bé Vui Khám Phá (https://bevui.id.vn). Bảo lưu mọi quyền.
+
+Toàn bộ mã nguồn, mã đã biên dịch, nội dung bài học, câu hỏi, trò chơi, hình ảnh,
+âm thanh, giọng đọc, giao diện và tài liệu đi kèm (gọi chung là "Sản phẩm") thuộc quyền sở hữu của Bé Vui Khám Phá.
+
+Tệp này KHÔNG cấp bất kỳ giấy phép nào. Việc người dùng được truy cập và sử dụng
+miễn phí trang web bevui.id.vn không đồng nghĩa với việc được phép:
+  - sao chép, tải về hàng loạt, sửa đổi, dịch, tạo sản phẩm phái sinh từ Sản phẩm;
+  - phân phối lại, đăng tải lại, lưu trữ trên máy chủ hoặc tên miền khác;
+  - sử dụng Sản phẩm, toàn bộ hay một phần, cho mục đích thương mại hay phi thương mại;
+nếu chưa có sự đồng ý bằng văn bản của chủ sở hữu.
+
+Nội dung đã được gắn dấu hiệu nhận dạng. Mọi hành vi sao chép sẽ bị yêu cầu gỡ bỏ
+(DMCA / thông báo vi phạm bản quyền) tới nhà cung cấp lưu trữ, công cụ tìm kiếm
+và cửa hàng ứng dụng liên quan, và có thể bị xử lý theo Luật Sở hữu trí tuệ Việt Nam.
+
+Liên hệ xin phép: https://bevui.id.vn/lien-he/
+
+--------------------------------------------------------------------------------
+
+COPYRIGHT – NO LICENSE GRANTED
+
+© 2026 Bé Vui Khám Phá (https://bevui.id.vn). All rights reserved.
+
+All source code, compiled code, lesson content, questions, games, images, audio,
+voice recordings, user interface and accompanying documentation
+(the "Product") are the property of Bé Vui Khám Phá.
+
+This file grants NO license of any kind. Being able to view or use bevui.id.vn for
+free does not permit you to copy, bulk-download, modify, translate, create
+derivative works of, redistribute, re-host, or otherwise use the Product, in whole
+or in part, for any purpose without prior written permission from the owner.
+
+The content carries identifying marks. Copies will be reported to hosting
+providers, search engines and app stores (DMCA takedown notices).
+
+Permission requests: https://bevui.id.vn/lien-he/
+
+Third-party libraries and fonts bundled in the Product remain under their own licenses.
+(Thư viện và phông chữ của bên thứ ba đi kèm vẫn theo giấy phép riêng của chúng.)
