@@ -1,0 +1,50 @@
+{
+  "id": "./",
+  "name": "Bé Vui Khám Phá",
+  "short_name": "Bé Vui",
+  "description": "Học mà chơi cho bé 3–11 tuổi: chữ cái tiếng Việt, toán, tiếng Anh, kỹ năng sống và bài ôn lớp 1–5. Miễn phí, có giọng đọc.",
+  "lang": "vi",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fff4fa",
+  "theme_color": "#ff8fb8",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "categories": [
+    "education",
+    "kids",
+    "games"
+  ],
+  "related_applications": [
+    {
+      "platform": "webapp",
+      "url": "https://bevui.id.vn/manifest.webmanifest"
+    }
+  ]
+}

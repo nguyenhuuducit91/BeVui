@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" stroke-linejoin="round" stroke-linecap="round"><style>.k{stroke:#5b4670}</style><defs><linearGradient id="tc-sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4a2fb8"/><stop offset=".55" stop-color="#8a4fe0"/><stop offset="1" stop-color="#ff8fc8"/></linearGradient><radialGradient id="tc-glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#fff6a8" stop-opacity=".9"/><stop offset="1" stop-color="#ffd84d" stop-opacity="0"/></radialGradient><linearGradient id="tc-bolt" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff9b0"/><stop offset="1" stop-color="#ffb41f"/></linearGradient><linearGradient id="tc-beam" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity=".95"/><stop offset="1" stop-color="#7fe6ff"/></linearGradient><linearGradient id="tc-fr" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6b3fd1"/><stop offset="1" stop-color="#e85bb0"/></linearGradient><path id="tc-b" d="M30 0L0 48H19L8 92L44 36H23L40 0Z"/></defs>
+<rect width="400" height="400" fill="url(#tc-sky)"/>
+<g opacity=".14" fill="#fff"><path d="M200 190L-40 -10 20 -80ZM200 190L110 -90 190 -100ZM200 190L300 -100 380 -70ZM200 190L440 -10 440 70ZM200 190L440 200 440 280Z"/></g>
+<circle cx="205" cy="190" r="190" fill="url(#tc-glow)" opacity=".7"/>
+<use href="#tc-b" transform="translate(40 40) scale(1.4) rotate(-10)" fill="url(#tc-bolt)" class="k" stroke-width="3" opacity=".9"/>
+<use href="#tc-b" transform="translate(305 28) scale(1.1) rotate(12)" fill="url(#tc-bolt)" class="k" stroke-width="3" opacity=".75"/>
+<path transform="translate(300 90) scale(1)" d="M-40 10Q-44 -8 -26 -10Q-22 -28 -2 -24Q10 -36 24 -22Q42 -22 40 -4Q48 10 34 12Z" fill="#fff" opacity=".35"/>
+<path d="M-10 330Q80 290 170 320T360 310T420 320V420H-10Z" fill="#5d3bbd" class="k" stroke-width="3.5"/>
+<path d="M-10 355Q100 325 210 350T420 345V420H-10Z" fill="#3a2a8f" class="k" stroke-width="3.5"/>
+<g fill="#fff" opacity=".5"><rect x="30" y="368" width="40" height="8" rx="4"/><rect x="150" y="378" width="50" height="8" rx="4"/><rect x="300" y="370" width="45" height="8" rx="4"/></g>
+<!-- beam -->
+<path d="M190 205L300 190Q312 205 300 222L190 218Z" fill="url(#tc-beam)" opacity=".95"/>
+<path d="M190 208L295 197Q302 205 295 214L190 214Z" fill="#fff"/>
+<!-- robot -->
+<g transform="translate(322 238) rotate(10)">
+<ellipse cx="0" cy="80" rx="36" ry="7" fill="#2b1f6b" opacity=".35"/>
+<rect x="-26" y="52" width="16" height="26" rx="7" fill="#9fb0d8" class="k" stroke-width="3.5"/><rect x="10" y="52" width="16" height="26" rx="7" fill="#9fb0d8" class="k" stroke-width="3.5"/>
+<rect x="-34" y="-4" width="68" height="62" rx="16" fill="#b9c8ee" class="k" stroke-width="4"/>
+<rect x="-18" y="14" width="36" height="26" rx="8" fill="#6f7fb8" class="k" stroke-width="3"/><circle cx="0" cy="27" r="7" fill="#ff5a5f" class="k" stroke-width="2.5"/>
+<path d="M0 -4V-24" class="k" stroke-width="4" fill="none"/><circle cx="0" cy="-28" r="7" fill="#ffd84d" class="k" stroke-width="3.5"/>
+<rect x="-44" y="12" width="14" height="34" rx="7" fill="#9fb0d8" class="k" stroke-width="3.5" transform="rotate(25 -37 14)"/><rect x="30" y="12" width="14" height="34" rx="7" fill="#9fb0d8" class="k" stroke-width="3.5" transform="rotate(-25 37 14)"/>
+<path d="M-18 -36L-26 -52M16 -36L24 -52" stroke="#ffd84d" stroke-width="5" fill="none"/>
+</g>
+<!-- impact -->
+<path d="M290 188L298 168L306 186L326 180L312 196L330 206L308 208L312 228L296 212L282 226L286 206L268 202Z" fill="#fff6a8" class="k" stroke-width="3"/>
+<!-- bunny hero -->
+<g transform="translate(115 238) rotate(-4)">
+<ellipse cx="0" cy="112" rx="58" ry="9" fill="#2b1f6b" opacity=".35"/>
+<path d="M-26 20Q-98 40 -86 100Q-60 60 -40 82Q-34 50 -20 60Z" fill="#ffd84d" class="k" stroke-width="4"/>
+<ellipse cx="-24" cy="-66" rx="14" ry="40" fill="#fff" class="k" stroke-width="4" transform="rotate(-10 -24 -66)"/><ellipse cx="-24" cy="-64" rx="6.5" ry="27" fill="#ffb3cf" transform="rotate(-10 -24 -64)"/>
+<ellipse cx="24" cy="-70" rx="14" ry="40" fill="#fff" class="k" stroke-width="4" transform="rotate(16 24 -70)"/><ellipse cx="24" cy="-68" rx="6.5" ry="27" fill="#ffb3cf" transform="rotate(16 24 -68)"/>
+<ellipse cx="-18" cy="98" rx="17" ry="12" fill="#fff" class="k" stroke-width="3.5"/><ellipse cx="22" cy="98" rx="17" ry="12" fill="#fff" class="k" stroke-width="3.5"/>
+<rect x="-32" y="40" width="64" height="58" rx="26" fill="#2f9bff" class="k" stroke-width="4"/>
+<rect x="-32" y="72" width="64" height="9" fill="#ffd84d" class="k" stroke-width="2.5"/>
+<circle cx="0" cy="58" r="14" fill="#fff" class="k" stroke-width="3"/><use href="#tc-b" transform="translate(-5.5 49) scale(.2)" fill="#ffb41f" class="k" stroke-width="10"/>
+<path d="M30 52Q62 56 82 36" fill="none" class="k" stroke-width="22"/><path d="M30 52Q62 56 82 36" fill="none" stroke="#2f9bff" stroke-width="15"/>
+<rect x="76" y="14" width="34" height="26" rx="8" fill="#ffd84d" class="k" stroke-width="3.5" transform="rotate(-8 90 27)"/><circle cx="113" cy="26" r="6" fill="#fff" class="k" stroke-width="2.5"/>
+<path d="M-30 52Q-52 70 -50 88" fill="none" class="k" stroke-width="20"/><path d="M-30 52Q-52 70 -50 88" fill="none" stroke="#2f9bff" stroke-width="13"/><circle cx="-50" cy="90" r="10" fill="#fff" class="k" stroke-width="3.5"/>
+<ellipse cx="0" cy="-2" rx="52" ry="45" fill="#fff" class="k" stroke-width="4"/>
+<path d="M-50 -8Q0 -26 50 -8L46 12Q30 24 16 10Q0 4 -16 10Q-30 24 -46 12Z" fill="#2f9bff" class="k" stroke-width="3.5"/>
+<ellipse cx="-24" cy="-4" rx="9" ry="11" fill="#fff"/><ellipse cx="24" cy="-4" rx="9" ry="11" fill="#fff"/><circle cx="-22" cy="-3" r="6" fill="#5b4670"/><circle cx="26" cy="-3" r="6" fill="#5b4670"/><circle cx="-20" cy="-6" r="2.3" fill="#fff"/><circle cx="28" cy="-6" r="2.3" fill="#fff"/>
+<ellipse cx="-36" cy="22" rx="9" ry="6" fill="#ffb3cf"/><ellipse cx="36" cy="22" rx="9" ry="6" fill="#ffb3cf"/>
+<path d="M-4 15Q0 12 4 15Q0 20 -4 15Z" fill="#ff7b9c" class="k" stroke-width="2"/><path d="M-10 22Q0 38 10 22Z" fill="#ff7b9c" class="k" stroke-width="3.5"/>
+</g>
+<!-- sparkles -->
+<g fill="#fff6a8"><path d="M60 170Q62 182 74 185Q62 188 60 200Q58 188 46 185Q58 182 60 170Z"/><path d="M230 90Q231.5 98 240 100Q231.5 102 230 110Q228.5 102 220 100Q228.5 98 230 90Z"/><path d="M360 150Q362 160 372 162Q362 164 360 174Q358 164 348 162Q358 160 360 150Z"/><path d="M200 310Q201.5 317 209 319Q201.5 321 200 328Q198.5 321 191 319Q198.5 317 200 310Z"/></g>
+<rect x="5" y="5" width="390" height="390" rx="40" fill="none" stroke="url(#tc-fr)" stroke-width="10"/></svg>
